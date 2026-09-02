@@ -19,7 +19,7 @@ Pastikan `wlrctl` udah terinstal:
 
 1. Clone repo ini dan beri izin eksekusi:
    ```bash
-   git clone [https://github.com/aftercoma/hyprland-autoclicker.git](https://github.com/aftercoma/hyprland-autoclicker.git)
+   git clone https://github.com/aftercoma/hyprland-autoclicker.git
    cd hyprland-autoclicker
    chmod +x afk_farm.sh
    ```
