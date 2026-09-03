@@ -21,17 +21,17 @@ Pastikan `wlrctl` udah terinstal:
    ```bash
    git clone https://github.com/aftercoma/hyprland-autoclicker.git
    cd hyprland-autoclicker
-   chmod +x afk_farm.sh
+   chmod +x main.sh
    ```
 
 2. Jalankan langsung di terminal:
    ```bash
-   ./afk_farm.sh
+   ./main.sh
    ```
 
 3. (Opsional) Pasang shortcut di `hyprland.conf`:
    ```ini
-   bind = , F6, exec, /path/ke/afk_farm.sh
+   bind = , F6, exec, ~/hyprland-autoclicker/main.sh
    ```
 
 ---
